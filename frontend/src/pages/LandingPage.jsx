@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Zap, Lock, Users, ArrowRight, Plus, LogIn, Eye, EyeOff } from "lucide-react";
 
-const BACKEND = "http://localhost:5000";
+const BACKEND = "https://focusedchat.onrender.com";
 
 export default function LandingPage() {
   const navigate = useNavigate();

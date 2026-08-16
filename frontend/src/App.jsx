@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { io } from 'socket.io-client';
 import { Shield, Users, MessageSquare, Lock, Unlock, Trash2, X, Send, Image, Mic } from 'lucide-react';
 
-const SOCKET_URL = 'http://localhost:5000';
+const SOCKET_URL = 'https://focusedchat.onrender.com';
 let socket;
 
 export default function App() {

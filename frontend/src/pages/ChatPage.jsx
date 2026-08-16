@@ -27,7 +27,7 @@ export default function ChatPage() {
     if (!state?.info) { navigate("/"); return; }
 
     // Create a fresh socket each mount — avoids stale listener bugs
-    const socket = io("http://localhost:5000", {
+    const socket = io("https://focusedchat.onrender.com", {
       transports: ["websocket", "polling"],
       reconnection: true,
     });
