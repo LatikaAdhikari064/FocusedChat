@@ -1,6 +1,6 @@
 # FocusChat
 
-> An AI-moderated real-time chat platform designed to keep group conversations focused on their intended topic.
+An AI-moderated real-time chat platform designed to keep group conversations focused on their intended topic.
 
 ##Live Demo
 
@@ -65,3 +65,5 @@ Gemini checks message against group topic
               3 strikes
                    ↓
              24h freeze
+
+<img width="1567" height="765" alt="image" src="https://github.com/user-attachments/assets/23ee073f-3b3f-49b6-b438-a4049f4b1017" />
