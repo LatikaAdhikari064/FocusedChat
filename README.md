@@ -2,11 +2,11 @@
 
 An AI-moderated real-time chat platform designed to keep group conversations focused on their intended topic.
 
-##Live Demo
+#Live Demo
 
 https://focused-chat.vercel.app/
 
-## 📌 Overview
+## 👩‍💻Overview
 
 FocusChat is a real-time chat application where users can create or join topic-focused chat spaces.
 
